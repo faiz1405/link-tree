@@ -69,7 +69,7 @@ const LINKS = [
   {
     id: 3,
     title: "Facebook",
-    url: "https://www.tiktok.com/@ceritacerdik",
+    url: "https://www.facebook.com/ceritacerdik",
     icon: FacebookIcon,
   },
   {
@@ -81,21 +81,81 @@ const LINKS = [
 ];
 
 const AFFILIATES = [
-  { id: 1, title: "Spesial Pilihan 1", url: "https://s.shopee.co.id/BTpT9vMgK" },
-  { id: 2, title: "Spesial Pilihan 2", url: "https://s.shopee.co.id/1VzD3T6i9c" },
-  { id: 3, title: "Spesial Pilihan 3", url: "https://s.shopee.co.id/5fom141CCC" },
-  { id: 4, title: "Spesial Pilihan 4", url: "https://s.shopee.co.id/20vSsOoeeB" },
-  { id: 5, title: "Spesial Pilihan 5", url: "https://s.shopee.co.id/8AW4gcB8TO" },
-  { id: 6, title: "Spesial Pilihan 6", url: "https://s.shopee.co.id/2gB6UDfNvG" },
-  { id: 7, title: "Spesial Pilihan 7", url: "https://s.shopee.co.id/20vL0Dt8TG" },
-  { id: 8, title: "Spesial Pilihan 8", url: "https://s.shopee.co.id/gPvnQpEks" },
-  { id: 9, title: "Spesial Pilihan 9", url: "https://s.shopee.co.id/7AdNsBaYxY" },
-  { id: 10, title: "Spesial Pilihan 10", url: "https://s.shopee.co.id/9AOQl8SbXq" },
-  { id: 11, title: "Spesial Pilihan 11", url: "https://s.shopee.co.id/2BEend9xry" },
-  { id: 12, title: "Spesial Pilihan 12", url: "https://s.shopee.co.id/4qFOKquWw3" },
-  { id: 13, title: "Spesial Pilihan 13", url: "https://s.shopee.co.id/6fh0ugPbTq" },
-  { id: 14, title: "Spesial Pilihan 14", url: "https://s.shopee.co.id/6q0PZ8b3yw" },
-  { id: 15, title: "Spesial Pilihan 15", url: "https://s.shopee.co.id/2BEYLFjjGL" },
+  {
+    id: 1,
+    title: "Spesial Pilihan 1",
+    url: "https://s.shopee.co.id/BTpT9vMgK",
+  },
+  {
+    id: 2,
+    title: "Spesial Pilihan 2",
+    url: "https://s.shopee.co.id/1VzD3T6i9c",
+  },
+  {
+    id: 3,
+    title: "Spesial Pilihan 3",
+    url: "https://s.shopee.co.id/5fom141CCC",
+  },
+  {
+    id: 4,
+    title: "Spesial Pilihan 4",
+    url: "https://s.shopee.co.id/20vSsOoeeB",
+  },
+  {
+    id: 5,
+    title: "Spesial Pilihan 5",
+    url: "https://s.shopee.co.id/8AW4gcB8TO",
+  },
+  {
+    id: 6,
+    title: "Spesial Pilihan 6",
+    url: "https://s.shopee.co.id/2gB6UDfNvG",
+  },
+  {
+    id: 7,
+    title: "Spesial Pilihan 7",
+    url: "https://s.shopee.co.id/20vL0Dt8TG",
+  },
+  {
+    id: 8,
+    title: "Spesial Pilihan 8",
+    url: "https://s.shopee.co.id/gPvnQpEks",
+  },
+  {
+    id: 9,
+    title: "Spesial Pilihan 9",
+    url: "https://s.shopee.co.id/7AdNsBaYxY",
+  },
+  {
+    id: 10,
+    title: "Spesial Pilihan 10",
+    url: "https://s.shopee.co.id/9AOQl8SbXq",
+  },
+  {
+    id: 11,
+    title: "Spesial Pilihan 11",
+    url: "https://s.shopee.co.id/2BEend9xry",
+  },
+  {
+    id: 12,
+    title: "Spesial Pilihan 12",
+    url: "https://s.shopee.co.id/4qFOKquWw3",
+  },
+  {
+    id: 13,
+    title: "Spesial Pilihan 13",
+    url: "https://s.shopee.co.id/6fh0ugPbTq",
+  },
+  {
+    id: 14,
+    title: "Spesial Pilihan 14",
+    url: "https://s.shopee.co.id/6q0PZ8b3yw",
+  },
+  {
+    id: 15,
+    title: "Spesial Pilihan 15",
+    url: "https://s.shopee.co.id/2BEYLFjjGL",
+  },
 ];
 
 export default function LinktreePage() {
